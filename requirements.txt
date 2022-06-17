@@ -1,0 +1,6 @@
+# These are not isntalle dhwne you distribute the wheel, these are used for build time
+# Add any reuqirements of your CLI in the setup.cfg under the 'install_requires' title
+# similar to the example flask that I have included for demo reasons only
+
+wheel
+setuptools
