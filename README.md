@@ -1,4 +1,4 @@
-# Python CLI Template
+# Python CLI
 
 This Python CLI template doesn't do very much, it just prints out text, but you can fill in the blanks and add to it.
 
