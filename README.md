@@ -1,4 +1,4 @@
-# NxCore CLI
+# Python CLI
 
 This CLI template doesn't do very much, it just prints out text, but you can fill in the blanks and add to it to build a real CLI.
 
