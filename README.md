@@ -1,6 +1,6 @@
-# Python CLI
+# Python CLI Template
 
-This CLI template doesn't do very much, it just prints out text, but you can fill in the blanks and add to it.
+This Python CLI template doesn't do very much, it just prints out text, but you can fill in the blanks and add to it.
 
 The CLI, once built and installed, can be called form anywhere in the system to perform tasks. You can hook it into AWS CLI using subprocess.call. You could have it sort or write files. Have it bring up or down infrastructure to save money. And anything else you can do from a CLI, but want wrapped for simplicity, accessability, or to save time. 
 <br>
