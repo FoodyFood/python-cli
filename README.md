@@ -48,11 +48,14 @@ python -m python_cli:main start -n server1 -m "start reason"
 
 ## Build And Install The WHL
 
-You can build the CLI into a WHL file and install it to be called from anywhere on your system.
+You can build the CLI into a WHL file and install it to be called from anywhere on your system
+
+These commands are made for a bash terminal. To run on windows change `pip3` to `pip`, and `python3` to `python`
 
 Building will require you to have setuptools and wheel isntalled
 
 ```bash
+pip3 install setuptools wheel
 make build
 make install
 ```
